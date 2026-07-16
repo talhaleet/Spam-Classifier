@@ -39,7 +39,7 @@ Spam-Classifier/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Spam-Classifier.git
+git clone https://github.com/talhaleet/Spam-Classifier.git
 ```
 
 Go into project:
@@ -61,6 +61,10 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+## Screenshot
+
+<img src="media/screenshot.png">
 
 
 ## How it Works
